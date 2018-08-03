@@ -5,7 +5,7 @@ exports.senderEmail = "info@quickstartminute.com";
 exports.senderName = "Product QuickStart";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
-// or a string with the listId to add to a specific list
+// or1 a string with the listId to add to a specific list
 exports.listId = null;
 
 // set 'exports.templateId = null' to opt out of using a template
