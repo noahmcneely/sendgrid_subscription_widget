@@ -1,5 +1,5 @@
 // Change the url to the domain of your app
-exports.url = 'http://localhost:3090';
+exports.url = 'https://quickstartsignup.herokuapp.com/';
 
 exports.senderEmail = "sender@example.com";
 exports.senderName = "Sender Name";
@@ -14,4 +14,4 @@ exports.templateId = null;
 
 // receive an email when a new signup is confirmed
 exports.sendNotification = true;
-exports.notificationEmail = "admin@example.com";
+exports.notificationEmail = "noah@productquickstart.com";
