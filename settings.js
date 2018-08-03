@@ -1,8 +1,8 @@
 // Change the url to the domain of your app
 exports.url = 'https://quickstartsignup.herokuapp.com/';
 
-exports.senderEmail = "sender@example.com";
-exports.senderName = "Sender Name";
+exports.senderEmail = "info@quickstartminute.com";
+exports.senderName = "Product QuickStart";
 
 // set 'exports.listId = null' to add contact to all contacts, but no specific list
 // or a string with the listId to add to a specific list
